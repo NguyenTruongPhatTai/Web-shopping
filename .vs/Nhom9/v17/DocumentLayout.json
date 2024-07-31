@@ -1,0 +1,1452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTLASP.Net\\Nhom9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|d:\\btlasp.net\\nhom9\\nhom9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\cartcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\cartcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\dropdowncategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\dropdowncategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\products\\12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\products\\12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\products\\1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\products\\1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\products\\10.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\products\\10.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\team\\3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\team\\3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\team\\1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\team\\1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\clientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\clientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\css\\meanmenu.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\css\\meanmenu.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\vertical-menu\\010-hoodie.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\vertical-menu\\010-hoodie.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\vertical-menu\\011-high-heels.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\vertical-menu\\011-high-heels.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\vertical-menu\\012-dress.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\vertical-menu\\012-dress.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\vertical-menu\\015-watch.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\vertical-menu\\015-watch.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\team\\4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\team\\4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\client\\img\\banner\\5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\img\\banner\\5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\assets\\img\\paypal-logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\assets\\img\\paypal-logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\taikhoannguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\taikhoannguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\sanphamchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\sanphamchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\kichco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\kichco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\session\\constaintuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\constaintuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\session\\constaincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\constaincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\data\\loginaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\data\\loginaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\accountuser\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\accountuser\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\bill\\listbills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\bill\\listbills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\error\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\error\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\css\\volt.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\css\\volt.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\css\\volt.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\css\\volt.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\assets\\js\\volt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\assets\\js\\volt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\selectoptionsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\selectoptionsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\content\\pagedlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\content\\pagedlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\nhom9db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\nhom9db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\models\\taikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\taikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\session\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\accountuser\\userinfor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\accountuser\\userinfor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\assets\\img\\flags\\aland-islands.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\assets\\img\\flags\\aland-islands.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\clientuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\clientuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery.unobtrusive-ajax.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery.unobtrusive-ajax.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery-3.4.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery-3.4.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery-3.4.1.min.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery-3.4.1.min.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery-3.4.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery-3.4.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\scripts\\jquery-3.4.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\scripts\\jquery-3.4.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\js\\adminaccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\js\\adminaccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\views\\error\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\error\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|D:\\BTLASP.Net\\Nhom9\\nhom9\\assets\\admin\\assets\\img\\themesberg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\admin\\assets\\img\\themesberg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-12T18:10:29.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-13T06:12:11.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-13T05:04:00.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DropdownCategories.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-13T05:03:59.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartCount.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\CartCount.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\CartCount.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\CartCount.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\CartCount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-13T05:03:57.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwBIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:10:34.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:09:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "10.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\10.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\products\\10.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\10.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\products\\10.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-25T01:18:14.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:10:31.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountUserController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\AccountUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\AccountUserController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\AccountUserController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\AccountUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:19.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:09:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Product\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Product\\Shop.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Product\\Shop.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwDsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:08:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "12.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\12.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\products\\12.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\12.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\products\\12.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-25T01:18:22.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T04:59:41.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:09:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "1.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\1.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\team\\1.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\1.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\team\\1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-25T01:17:59.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\1.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\products\\1.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\products\\1.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\products\\1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-25T01:18:17.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:09:13.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientUserController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T17:56:01.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "3.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\3.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\team\\3.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\3.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\team\\3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:08:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T14:02:31.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T04:59:44.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Nhom9\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Nhom9\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T04:58:51.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:10:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T04:58:36.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\BillController.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\BillController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:31.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "4.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\4.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\team\\4.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\team\\4.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\team\\4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "015-watch.png",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\015-watch.png",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\vertical-menu\\015-watch.png",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\015-watch.png",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\vertical-menu\\015-watch.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "012-dress.png",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\012-dress.png",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\vertical-menu\\012-dress.png",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\012-dress.png",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\vertical-menu\\012-dress.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:29.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "010-hoodie.png",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\010-hoodie.png",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\vertical-menu\\010-hoodie.png",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\010-hoodie.png",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\vertical-menu\\010-hoodie.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:34.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "meanmenu.min.css",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\css\\meanmenu.min.css",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\css\\meanmenu.min.css",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\css\\meanmenu.min.css",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\css\\meanmenu.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-24T07:32:12.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "011-high-heels.png",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\011-high-heels.png",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\vertical-menu\\011-high-heels.png",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\vertical-menu\\011-high-heels.png",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\vertical-menu\\011-high-heels.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:27:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "5.jpg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\banner\\5.jpg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\img\\banner\\5.jpg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Client\\img\\banner\\5.jpg",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\img\\banner\\5.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-24T07:26:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T13:59:48.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "paypal-logo.svg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\paypal-logo.svg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\assets\\img\\paypal-logo.svg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\paypal-logo.svg",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\assets\\img\\paypal-logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-11-24T07:21:06.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KichCo.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\KichCo.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\KichCo.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\KichCo.cs",
+              "RelativeToolTip": "Nhom9\\Models\\KichCo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TaiKhoanNguoiDung.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\TaiKhoanNguoiDung.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\TaiKhoanNguoiDung.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\TaiKhoanNguoiDung.cs",
+              "RelativeToolTip": "Nhom9\\Models\\TaiKhoanNguoiDung.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:03:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Nhom9\\Models\\HoaDon.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Nhom9\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConstaintUser.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\ConstaintUser.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\ConstaintUser.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\ConstaintUser.cs",
+              "RelativeToolTip": "Nhom9\\Session\\ConstaintUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:09:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SanPhamChiTiet.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\SanPhamChiTiet.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\SanPhamChiTiet.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\SanPhamChiTiet.cs",
+              "RelativeToolTip": "Nhom9\\Models\\SanPhamChiTiet.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:03:23.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.config",
+              "RelativeToolTip": "Nhom9\\Web.config",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-12T17:58:19.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ConstainCart.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\ConstainCart.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\ConstainCart.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\ConstainCart.cs",
+              "RelativeToolTip": "Nhom9\\Session\\ConstainCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:09:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginAccount.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T18:09:20.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Cart\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\Orders.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Cart\\Orders.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\Orders.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-22T13:13:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T14:01:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ChangePassWord.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\AccountUser\\ChangePassWord.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\AccountUser\\ChangePassWord.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\AccountUser\\ChangePassWord.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\AccountUser\\ChangePassWord.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:03:37.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ListBills.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:09:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Bill\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Bill\\Details.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Bill\\Details.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Bill\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:09:22.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:03:55.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:09:12.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\SanPham.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\SanPham.cs",
+              "RelativeToolTip": "Nhom9\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:03:22.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\DanhMuc.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "Nhom9\\Models\\DanhMuc.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:40.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "volt.css.map",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\css\\volt.css.map",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\css\\volt.css.map",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\css\\volt.css.map",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\css\\volt.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-13T05:01:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "volt.css",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\css\\volt.css",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\css\\volt.css",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\css\\volt.css",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\css\\volt.css",
+              "ViewState": "AQIAAFigAAAAAAAAAAAAAI8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-13T05:01:11.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "volt.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\js\\volt.js",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\assets\\js\\volt.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\js\\volt.js",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\assets\\js\\volt.js",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-13T05:01:55.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:06:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SearchBox.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SearchBox.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\SearchBox.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SearchBox.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\SearchBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:06:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SelectOptionSize.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SelectOptionSize.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\SelectOptionSize.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SelectOptionSize.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\SelectOptionSize.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:07:55.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:26:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PagedList.css",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Content\\PagedList.css",
+              "RelativeDocumentMoniker": "Nhom9\\Content\\PagedList.css",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Content\\PagedList.css",
+              "RelativeToolTip": "Nhom9\\Content\\PagedList.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-13T05:02:04.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:09:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\packages.config",
+              "RelativeDocumentMoniker": "Nhom9\\packages.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\packages.config",
+              "RelativeToolTip": "Nhom9\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-13T05:08:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T14:00:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAJAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-12T18:09:32.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Nhom9DB.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\Nhom9DB.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\Nhom9DB.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\Nhom9DB.cs",
+              "RelativeToolTip": "Nhom9\\Models\\Nhom9DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:02:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:08:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TaiKhoanQuanTri.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "RelativeToolTip": "Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:03:29.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\LoginUser.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Session\\LoginUser.cs",
+              "RelativeToolTip": "Nhom9\\Session\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:10:00.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\bootstrap.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\bootstrap.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-13T05:27:24.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UserInfor.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:03:44.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T14:02:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "aland-islands.svg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\flags\\aland-islands.svg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\assets\\img\\flags\\aland-islands.svg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\flags\\aland-islands.svg",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\assets\\img\\flags\\aland-islands.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-11-17T17:06:44.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T14:01:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Global.asax.cs",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Global.asax.cs",
+              "RelativeToolTip": "Nhom9\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-13T05:08:57.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "modernizr-2.8.3.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\modernizr-2.8.3.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\modernizr-2.8.3.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\modernizr-2.8.3.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\modernizr-2.8.3.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-15T14:18:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery.validate.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery.validate.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery.validate.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery.validate.js",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-15T14:18:45.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "jquery.unobtrusive-ajax.min.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery.unobtrusive-ajax.min.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery.unobtrusive-ajax.min.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery.unobtrusive-ajax.min.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery.unobtrusive-ajax.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-15T14:18:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "jquery-3.4.1.slim.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.slim.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery-3.4.1.slim.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.slim.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery-3.4.1.slim.js",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-15T14:18:36.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "jquery-3.4.1.min.map",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.min.map",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery-3.4.1.min.map",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.min.map",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery-3.4.1.min.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-15T14:18:35.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-13T05:00:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "jquery-3.4.1.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery-3.4.1.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery-3.4.1.js",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-13T14:05:39.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "jquery-3.4.1.slim.min.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.slim.min.js",
+              "RelativeDocumentMoniker": "Nhom9\\Scripts\\jquery-3.4.1.slim.min.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Scripts\\jquery-3.4.1.slim.min.js",
+              "RelativeToolTip": "Nhom9\\Scripts\\jquery-3.4.1.slim.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-13T14:05:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AdminAccount.js",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\js\\AdminAccount.js",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\js\\AdminAccount.js",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\js\\AdminAccount.js",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\js\\AdminAccount.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-13T06:29:35.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\web.config",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\web.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\web.config",
+              "RelativeToolTip": "Nhom9\\Views\\web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-12T17:58:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Error\\Error.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Error\\Error.cshtml",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Views\\Error\\Error.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Error\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-13T05:09:09.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.Debug.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.Debug.config",
+              "RelativeToolTip": "Nhom9\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-13T05:11:59.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.Release.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.Release.config",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Web.Release.config",
+              "RelativeToolTip": "Nhom9\\Web.Release.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-13T05:12:02.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "themesberg.svg",
+              "DocumentMoniker": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\themesberg.svg",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Admin\\assets\\img\\themesberg.svg",
+              "ToolTip": "D:\\BTLASP.Net\\Nhom9\\Nhom9\\Assets\\Admin\\assets\\img\\themesberg.svg",
+              "RelativeToolTip": "Nhom9\\Assets\\Admin\\assets\\img\\themesberg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-11-13T05:10:52.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
